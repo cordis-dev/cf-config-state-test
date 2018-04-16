@@ -1,0 +1,10 @@
+{
+  "extends": [
+    "eslint-config-es6"
+  ],
+  "plugins": [
+  ],
+  "env": {
+    "browser": true
+  }
+}
