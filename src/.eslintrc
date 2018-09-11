@@ -1,0 +1,7 @@
+{
+  "extends": ["eslint-config-es5"],
+  "plugins": [],
+  "env": {
+    "browser4": true
+  }
+}
