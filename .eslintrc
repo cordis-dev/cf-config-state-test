@@ -1,9 +1,6 @@
 {
-  "extends": [
-    "eslint-config-es5"
-  ],
-  "plugins": [
-  ],
+  "extends": ["eslint-config-es5"],
+  "plugins": ["t1"],
   "env": {
     "browser": true
   }
