@@ -1,4 +1,4 @@
 expect("something");
 
-expect("something").toEqual("something"); 
+expect("something").toEqual("something");  
 
